@@ -1,2 +1,4 @@
+Yet Another Program to install AUR Packages
+
 Usage:
   python3 app.py <package-name>
